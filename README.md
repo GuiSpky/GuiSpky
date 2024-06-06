@@ -24,7 +24,7 @@
           </span>
 
 <a href="https://github.com/GuiSpky">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmpereira&layout=compact&langs_count=7&theme=dracula"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSpky&layout=compact&langs_count=7&theme=dracula"/>
           
 ## Contacts:
 
