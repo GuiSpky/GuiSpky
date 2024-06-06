@@ -23,6 +23,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40" />
           </span>
 
+          
+
 <a href="https://github.com/GuiSpky">
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSpky&layout=compact&langs_count=7&theme=dracula"/>
           
