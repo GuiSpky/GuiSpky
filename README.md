@@ -1,8 +1,8 @@
 # 👋 Hello!
 ## My name is Guilherme
 
-- 🔭 I'm a studen in Technology.
-- 📚 Looking for looking for junior while studying `Internet Systems at Unialfa`!
+- 🔭 I'm a student in IT.
+- 📚 Looking for looking for junior while studying `Internet Systems at Unialfa!`
 
 ## Tools and languages:
 <span>
