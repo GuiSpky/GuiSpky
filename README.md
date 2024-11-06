@@ -2,7 +2,7 @@
 ## My name is Guilherme
 
 - 🔭 Current studing Web Sisten at Unialfa College.
-- 📚 Looking for opportunites to show my `habilites and knowledge`.
+- 📚 Looking for opportunites to show my `skills and knowledge`.
 
 ## Tools and languages:
 <span>
